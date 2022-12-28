@@ -1,0 +1,1 @@
+# maven-plugin-release-tests
